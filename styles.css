@@ -1,1 +1,14 @@
 /* your code */
+table{
+	border-radius:10px;
+}
+thead{
+	color:white;
+	background-color:#1b3770;
+}
+#cool{
+	background-color:#81848a;
+}
+#stra{
+	background-color:#81848a;
+}
